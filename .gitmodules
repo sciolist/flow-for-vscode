@@ -1,0 +1,3 @@
+[submodule "nuclide"]
+	path = nuclide
+	url = https://github.com/facebook/nuclide

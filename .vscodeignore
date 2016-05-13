@@ -1,4 +1,5 @@
 .vscode/**
 **/*.map
-lib
+lib/**
 .gitignore
+nuclide/**
